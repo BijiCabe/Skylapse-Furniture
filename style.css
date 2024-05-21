@@ -1,0 +1,704 @@
+/* only for phone 300dp (my phone :)*/
+* {
+  margin:0px;
+  padding:0px;
+}
+
+.main-container{
+  width:auto;
+  height:auto;
+}
+
+.header {
+  background-image:url("assets/gray-sofa-white-living-room-interior-with-copy-space-3d-rendering.jpg");
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-size:cover;
+  height:100vh;
+  border:;
+  margin:auto;
+  display:block;
+}
+
+.text-and-btn {
+  width:100%;
+  height:auto;
+  margin-top:20%;
+  border:;
+  display:block;
+  position:absolute;
+}
+
+.text {
+ width:auto;
+ height:auto;
+ border:;
+ margin:auto;
+ /*padding-top:180px;*/
+ border:;
+ padding:auto;
+}
+
+.title-article {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight:500px;
+  font-style: normal;
+  font-size:35px;
+  text-align:center;
+}
+
+.description {
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400px;
+  font-style: normal;
+  text-align:center;
+}
+
+.link {
+  text-decoration:none;
+}
+
+.Read-Below {
+  width:180px;
+  height:45px;
+  margin:auto;
+  font-family: "Source Sans 3", sans-serif;
+  display:block;
+  border:none;
+  background-color:black;
+  color:white;
+  border-radius:50px;
+}
+
+.claas {
+  text-decoration:none;
+  
+}
+
+.Read-Below:hover {
+  background-color:gray;
+  color:black;
+}
+
+.main-content {
+  width:auto;
+  height:auto;
+}
+
+.box-article {
+  width:auto;
+  height:auto;
+  margin-top:30px;
+  border:;
+  display:;
+}
+
+.box-article-2 {
+  width:auto;
+  height:auto;
+  margin-top:30px;
+  border:;
+  display:;
+}
+
+.text-act {
+  width:auto;
+  height:auto;
+}
+
+.text-atcl {
+  font-family: "Playfair Display", serif;
+  text-align:center;
+}
+
+  .description-for-text-atcl {
+    font-size:px;
+    border:;
+    display:block;
+    width:auto;
+    height:auto;
+    font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400px;
+  font-style: normal;
+  text-align:center;
+  }
+
+.ol-daftar {
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400px;
+  font-style: normal;
+  text-align:center;
+  display:block;
+  margin:auto;
+}
+
+.daftar {
+   font-family: "Source Sans 3", sans-serif;
+}
+
+.img-content {
+  width:70%;
+  height:270px;
+  display:block;
+  border:;
+  margin:auto;
+}
+
+.img-content-2 {
+  width:80%;
+  height:180px;
+  display:block;
+  border:;
+  margin:auto;
+}
+
+.main-offer {
+  width:auto;
+  height:auto;
+  margin:auto;
+  margin-top:50px;
+  border:;
+}
+
+.div-title-text-offer {
+  width:auto;
+  height:auto;
+  margin:auto;
+}
+
+.text-title-offer {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size:45px;
+  text-align:center;
+}
+
+.main-div-product {
+  border:;
+  width:auto;
+  height:auto;
+}
+
+.second-div-product {
+  border:;
+  width:auto;
+  height:auto;
+}
+
+.box-of-product {
+  width:60%;
+  height:250px;
+  border:1px solid black;
+  box-shadow:-17px 17px black;
+  margin:auto;
+  margin-bottom:30px;
+  margin-top:40px;
+  box-sizing:border-box;
+}
+
+.img-of-product {
+  width:200px;
+  height:215px;
+  display:block;
+  margin:auto;
+  margin-top:15px;
+  border:;
+}
+
+.img-of-product2 {
+  width:200px;
+  height:120px;
+  display:block;
+  margin:auto;
+  margin-top:65px;
+  border:;
+}
+
+.img-of-product-3 {
+  width:160px;
+  height:220px;
+  display:block;
+  margin:auto;
+  margin-top:10px;
+  border:;
+}
+
+.title-button-and-desk-of-product {
+  font-family: "Playfair Display", serif;
+  width:76%;
+  height:auto;
+  border:;
+  margin:auto;
+}
+
+.title-of-product {
+  text-align:left;
+}
+
+.desk-of-product {
+  text-align:left;
+  font-family: "Source Sans 3", sans-serif;
+}
+
+.CTA {
+  width:50%;
+  height:40px;
+  border:1px solid black;
+  border-radius:20px;
+  margin:auto;
+  color:black;
+  background-color:white;
+  display:block;
+  margin-top:10px;
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.reason-main-div {
+  width:auto;
+  height:auto;
+  margin:auto;
+  margin-top:60px;
+  border:;
+}
+
+.text-reason-div {
+  border:;
+ margin:auto; 
+ width:auto;
+ height:auto;
+}
+
+.reason-text {
+  font-family: "Playfair Display", serif;
+  text-align:center;
+
+}
+
+.box-img-reason-and-desk {
+  width:auto;
+  height:auto;
+  border:;
+  margin:auto;
+  padding:auto;
+  display:flex;
+  justify-content:space-evenly;
+}
+
+.img-of-reason {
+  border-radius:50px;
+  width:70px;
+  height:70px;
+  border:solid 1px;
+  margin-top:10px;
+  margin-bottom:10px;
+
+}
+
+.div-for-first-box-of-text-reason-and-desk {
+ width:70%;
+ height:auto;
+ border:;
+ margin-top:10px;
+ margin-bottom:10px;
+}
+
+.div-of-reason-text-border-center {
+  width:auto;
+  height:30px;
+  border:solid 1px;
+  border-top:none;
+  border-right:none;
+  border-left:none;
+  border-bottom:-1px;
+}
+
+.div-of-reason-text-border-center-2 {
+  width:auto;
+  height:auto;
+  border:solid 1px;
+  border-top:none;
+  border-right:none;
+  border-left:none;
+  border-bottom:-1px;
+  padding-bottom:-4px;
+}
+
+.text-reason-2 {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+  font-size:20px;
+}
+
+.desk-of-reason {
+  
+}
+
+.desk-reason {
+   font-family: "Source Sans 3", sans-serif;
+   
+}
+
+.footer {
+  background-color:black;
+  width:100%;
+  height:auto;
+  margin:auto;
+  margin-top:25px;
+}
+
+.div-of-contact-us {
+   font-family: "Source Sans 3", sans-serif;
+  margin:auto;
+  font-optical-sizing: auto;
+  font-weight:300;
+  font-style: normal;
+}
+
+.contact-us-text {
+  text-align:center;
+  color:white;
+  font-size:30px;
+  display:block;
+  border:;
+  border-top:none;
+  border-right:none;
+  border-left:none;
+  border-bottom:-1px;
+  width:65%;
+  margin:auto;
+}
+
+.main-div-logo {
+  width:auto;
+  height:auto;
+  margin:center;
+  justify-content:center;
+  display:flex;
+  border:;
+  margin-top:10px;
+}
+
+.fa-brands {
+  font-size:25px;
+  color:white;
+  margin-left:15px;
+  margin-right:15px;
+}
+
+.main-div-privacy-and-copyright {
+  width:auto;
+  height:auto;
+  margin:center;
+  justify-content:space-around;
+  display:flex;
+  border:;
+  margin-top:10px;
+  color:white;
+  font-family: "Source Sans 3", sans-serif;
+}
+
+
+/* ↓↓ For Phone Device // 500 - 990px or dp ↓↓ */
+@media only screen and (min-width:500px) and (max-width:990px) {
+  .header {
+    
+  }
+  .title-article {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight:500px;
+  font-style: normal;
+  font-size:60px;
+  text-align:center;
+}
+
+.text-and-btn {
+  width:100%;
+  height:auto;
+  margin-top:;
+  border:;
+  display:block;
+  position:absolute;
+}
+
+.text {
+ width:auto;
+ height:auto;
+ border:;
+ margin:auto;
+ border:;
+ padding:auto;
+}
+
+.description {
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400px;
+  font-style: normal;
+  text-align:center;
+  font-size:25px;
+}
+
+.Read-Below {
+  width:300px;
+  height:70px;
+  margin:auto;
+  font-family: "Source Sans 3", sans-serif;
+  display:block;
+  border:none;
+  background-color:black;
+  color:white;
+  border-radius:50px;
+  font-size:30px;
+}
+
+
+.ol-daftar {
+  display:block;
+  width:80%;
+  margin:auto;
+}
+.img-content {
+  max-width:300px;
+  max-height:260px;
+  display:block;
+  margin:auto;
+  border:;
+}
+
+.img-content-2 {
+  max-width:500px;
+  height:230px;
+  display:block;
+  margin:auto;
+  border:;
+  margin-top:30px;
+}
+
+  .description-for-text-atcl {
+    font-size:20px;
+    border:;
+    display:block;
+    width:90%;
+    height:auto;
+    font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400px;
+  font-style: normal;
+  text-align:center;
+  margin:auto;
+  }
+
+.ol-daftar {
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400px;
+  font-style: normal;
+  font-size:20px;
+}
+  
+.img-of-product {
+  width:60%;
+  height:215px;
+  display:block;
+  margin:auto;
+  margin-top:15px;
+  border:;
+}
+
+.img-of-product2 {
+  width:80%;
+  height:150px;
+  display:block;
+  margin:auto;
+  margin-top:65px;
+  border:;
+}
+
+.img-of-product-3 {
+  width:45%;
+  height:220px;
+  display:block;
+  margin:auto;
+  margin-top:10px;
+  border:;
+}
+
+.main-div-privacy-and-copyright {
+  width:55%;
+  height:auto;
+  margin:auto;
+  justify-content:space-around;
+  display:flex;
+  border:;
+  margin-top:10px;
+  color:white;
+  font-family: "Source Sans 3", sans-serif;
+}
+
+
+}
+
+
+/* ↓↓ For Desktop Device // 900 - 1800px ↓↓ */
+@media only screen and (min-width:990px) and (max-width:1800px) {
+  
+  .text-and-btn {
+    border:;
+  }
+  
+  .title-article {
+    font-size:80px;
+  }
+  
+  .text {
+    
+  }
+  
+  .text-atcl {
+    font-size:45px;
+  }
+  
+  .description {
+    font-size:25px;
+    border:;
+    display:block;
+    width:auto;
+    height:auto;
+  }
+  
+  
+  .Read-Below {
+    width:200px;
+    height:55px;
+    font-size:22px;
+  }
+  
+  .box-article {
+    display:flex;
+    flex-direction:row-reverse;
+    border:;
+    justify-content:space-evenly;
+  } 
+  
+  .description-for-text-atcl {
+    font-size:25px;
+    border:;
+    display:block;
+    width:auto;
+    height:auto;
+    margin-left:20px;
+  }
+  
+  .img-content {
+    border:;
+    width:380px;
+    height:380px;
+    align-self:left;
+   margin-left:50px;
+  }
+  
+  .box-article-2 {
+    display:flex;
+    border:;
+    justify-content:space-evenly;
+    height:350px;
+    width:auto;
+    padding-right:50px;
+    padding-left:50px;
+  }
+  
+  .ol-daftar {
+    font-size:25px;
+  }
+
+  .img-content-2 {
+    border:;
+    width:450px;
+    height:280px;
+    margin-top:25px;
+    margin-left:100px;
+  }
+  
+  .main-offer {
+  width:auto;
+  height:auto;
+  margin:auto;
+  margin-top:50px;
+  border:;
+}
+  
+  .main-div-product {
+    width:95%;
+    border:;
+    display:flex;
+    margin:auto;
+  }
+  
+  .main-box-of-product {
+    width:auto;
+    height:auto;
+    border:;
+  }
+  
+  .box-of-product {
+  width:50%;
+  height:250px;
+  border:1px solid black;
+  box-shadow:-17px 17px black;
+  margin:auto;
+  margin-bottom:30px;
+  margin-top:40px;
+  box-sizing:border-box;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.img-of-product, .img-of-product2, .img-of-product-3 {
+  width:100%;
+}
+
+.reason-main-div {
+  border:;
+  display:flex;
+}
+
+.text-reason-div {
+  width:45%;
+  height:auto;
+  border:;
+}
+
+.reason-text {
+  font-size:60px;
+  
+}
+
+.main-div-board-reason {
+  border:;
+  margin;
+  width:50%;
+}
+
+.main-div-privacy-and-copyright {
+  width:50%;
+  margin:auto;
+  display:flex;
+  margin-top:15px;
+}
+}
