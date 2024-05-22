@@ -1,4 +1,6 @@
 /* only for phone 300dp (my phone :)*/
+/* i write this code at acode , The code below is the code for my cellphone which has a DP of 300, but this code is no longer used because it is already there.*/
+/* Don't change the code below because it is still related to layout and design, just leave the 300dp code*/
 * {
   margin:0px;
   padding:0px;
@@ -413,6 +415,7 @@
 
 
 /* ↓↓ For Phone Device // 500 - 990px or dp ↓↓ */
+/* Update : ↓↓ For Phone Device // 300 - 990px or dp ↓↓ */
 @media only screen and (min-width:300px) and (max-width:990px) {
   .header {
     
@@ -555,6 +558,7 @@
 
 
 /* ↓↓ For Desktop Device // 900 - 1800px ↓↓ */
+/* Update : ↓↓ For Phone Device // 900 - 1990px or dp ↓↓ */
 @media only screen and (min-width:900px) and (max-width:1990px) {
   
   .text-and-btn {
