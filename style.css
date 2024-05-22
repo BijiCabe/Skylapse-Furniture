@@ -555,7 +555,7 @@
 
 
 /* ↓↓ For Desktop Device // 900 - 1800px ↓↓ */
-@media only screen and (min-width:990px) and (max-width:1800px) {
+@media only screen and (min-width:900px) and (max-width:1990px) {
   
   .text-and-btn {
     border:;
