@@ -413,7 +413,7 @@
 
 
 /* ↓↓ For IPhone Device // 500 - 990px or dp ↓↓ */
-@media only screen and (min-width:500px) and (max-width:990px) {
+@media only screen and (min-width:500px){
   .header {
     
   }
@@ -555,7 +555,7 @@
 
 
 /* ↓↓ For Desktop Device // 900 - 1800px ↓↓ */
-@media only screen and (min-width:900px) and (max-width:1990px) {
+@media only screen and (min-width:900px){
   
   .text-and-btn {
     border:;
